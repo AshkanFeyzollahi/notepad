@@ -10,7 +10,7 @@ This simple notepad software has following features:
 - Pasting, Cutting and copying selected or all text.
 - Also you can change Font family and Font size.
 
-## prerequisites
+## Prerequisites
 
 - .NET framework 4.5.2
 
