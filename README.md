@@ -1,5 +1,7 @@
 # Notepad
 
+![notepad-showcase](https://github.com/user-attachments/assets/219bcec5-8cf7-4fcf-860c-ddf0f0f5e114)
+
 A simple notepad software implemented in C# using .NET framework.
 
 ## Features
